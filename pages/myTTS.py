@@ -1,6 +1,6 @@
 
 import streamlit as st
-import matplotlib.py plot as plt
+import matplotlib.pyplot as plt
 from gtts import gTTS
 
 
