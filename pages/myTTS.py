@@ -1,5 +1,5 @@
 
-import streamlit as st //중간과정 생략
+import streamlit as st
 import matplotlib.pyplot as plt
 from gtts import gTTS
 
